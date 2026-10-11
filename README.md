@@ -1,4 +1,8 @@
-# React + Vite
+# day28
+
+React Day 28 menu app with loading, error, and abort.
+
+## Development
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
